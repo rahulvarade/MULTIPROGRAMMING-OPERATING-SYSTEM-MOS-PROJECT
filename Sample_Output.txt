@@ -1,0 +1,52 @@
+*   
+*   *   
+*   *   *   
+*   *   
+202	Line Limit Exceeded
+15	PD60	15	5
+
+
+CAT CAN EAT RAT
+RAT
+302	No Error
+10	H	10	2
+
+
+102	Invalid Page Fault
+2	LR36	2	0
+
+
+ABCD
+ABCD
+MATCH
+401	Time Limit Exceeded
+11	PD50	10	3
+
+
+1503	Operand Error
+4	SR7A	4	0
+
+
+1403	Operation Code Error
+9	PA30	9	0
+
+
+1403	Out of Data
+1	GD30	1	0
+
+
+SHE SELLS   SEA SHELLS ON
+402	Time Limit Exceeded with Operand Error
+5	PD3F	5	1
+
+
+SHE SELLS   SEA SHELLS ON
+403	Time Limit Exceeded with Operation Code Error
+5	PS40	5	1
+
+
+SHE SELLS   SEA SHELLS ON
+405	Time Limit Exceeded
+5	PD40	5	1
+
+
