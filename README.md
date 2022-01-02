@@ -1,6 +1,5 @@
 # MULTIPROGRAMMING OPERATING SYSTEM (MOS) PROJECT 
 
-This project is developed in C language.
 
 ## Assumptions
 1. Jobs may have program errors 
